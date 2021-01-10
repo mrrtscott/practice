@@ -14,5 +14,5 @@ def fibonacci_memo(input_value):
 
 
 
-for i in range(1, 201):
+for i in range(1, 501):
     print("fib({}) = ".format(i), fibonacci_memo(i)) 
